@@ -22,4 +22,14 @@ export const styles = StyleSheet.create({
     color: '#fff',
     fontSize: 16,
   },
+
+  paragraph: {
+  fontSize: 16,
+  color: '#555',
+  marginVertical: 10,
+  lineHeight: 22,
+  textAlign: 'center', 
+},
+
 });
+
