@@ -10,7 +10,7 @@ type props = NativeStackScreenProps<RootStackParamList, 'cookingScreen'>;
 export default function cookingScreen({ navigation }: props) {
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.text}>Second Screen</Text>
+      <Text style={styles.text}>cooking</Text>
 
       <Text style={styles.paragraph}>
         Fees: R750

@@ -10,7 +10,7 @@ type props = NativeStackScreenProps<RootStackParamList, 'childMindingScreen'>;
 export default function childMindingScreen({ navigation }: props) {
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.text}>Second Screen</Text>
+      <Text style={styles.text}>child minding</Text>
 
       <Text style={styles.paragraph}>
         Fees: R750
